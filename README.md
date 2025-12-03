@@ -1,1 +1,1 @@
-# angular-shopping-cart
+# angular-shopping-car
